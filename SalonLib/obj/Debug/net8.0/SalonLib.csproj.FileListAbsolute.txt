@@ -1,0 +1,12 @@
+D:\Git\SP\SalonLib\bin\Debug\net8.0\SalonLib.deps.json
+D:\Git\SP\SalonLib\bin\Debug\net8.0\SalonLib.dll
+D:\Git\SP\SalonLib\bin\Debug\net8.0\SalonLib.pdb
+D:\Git\SP\SalonLib\obj\Debug\net8.0\SalonLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\SP\SalonLib\obj\Debug\net8.0\SalonLib.AssemblyInfoInputs.cache
+D:\Git\SP\SalonLib\obj\Debug\net8.0\SalonLib.AssemblyInfo.cs
+D:\Git\SP\SalonLib\obj\Debug\net8.0\SalonLib.csproj.CoreCompileInputs.cache
+D:\Git\SP\SalonLib\obj\Debug\net8.0\SalonLib.sourcelink.json
+D:\Git\SP\SalonLib\obj\Debug\net8.0\SalonLib.dll
+D:\Git\SP\SalonLib\obj\Debug\net8.0\refint\SalonLib.dll
+D:\Git\SP\SalonLib\obj\Debug\net8.0\SalonLib.pdb
+D:\Git\SP\SalonLib\obj\Debug\net8.0\ref\SalonLib.dll
